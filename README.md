@@ -1,6 +1,6 @@
 # PHPExport
 
-In this project I show how to export data to MS Excel, a text file, or MS Word
+In this project I show how to export data to MS Excel, a text file, or MS Word using PHP.
 
 ##PHPExport to Excel, Text Files, and Word
 
